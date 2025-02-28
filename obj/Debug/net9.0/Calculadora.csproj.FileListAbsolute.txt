@@ -1,0 +1,14 @@
+C:\Users\maras\Desktop\estudos   (davi)\C#\Calculadora\bin\Debug\net9.0\Calculadora.exe
+C:\Users\maras\Desktop\estudos   (davi)\C#\Calculadora\bin\Debug\net9.0\Calculadora.deps.json
+C:\Users\maras\Desktop\estudos   (davi)\C#\Calculadora\bin\Debug\net9.0\Calculadora.runtimeconfig.json
+C:\Users\maras\Desktop\estudos   (davi)\C#\Calculadora\bin\Debug\net9.0\Calculadora.dll
+C:\Users\maras\Desktop\estudos   (davi)\C#\Calculadora\bin\Debug\net9.0\Calculadora.pdb
+C:\Users\maras\Desktop\estudos   (davi)\C#\Calculadora\obj\Debug\net9.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maras\Desktop\estudos   (davi)\C#\Calculadora\obj\Debug\net9.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\maras\Desktop\estudos   (davi)\C#\Calculadora\obj\Debug\net9.0\Calculadora.AssemblyInfo.cs
+C:\Users\maras\Desktop\estudos   (davi)\C#\Calculadora\obj\Debug\net9.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\maras\Desktop\estudos   (davi)\C#\Calculadora\obj\Debug\net9.0\Calculadora.dll
+C:\Users\maras\Desktop\estudos   (davi)\C#\Calculadora\obj\Debug\net9.0\refint\Calculadora.dll
+C:\Users\maras\Desktop\estudos   (davi)\C#\Calculadora\obj\Debug\net9.0\Calculadora.pdb
+C:\Users\maras\Desktop\estudos   (davi)\C#\Calculadora\obj\Debug\net9.0\Calculadora.genruntimeconfig.cache
+C:\Users\maras\Desktop\estudos   (davi)\C#\Calculadora\obj\Debug\net9.0\ref\Calculadora.dll
